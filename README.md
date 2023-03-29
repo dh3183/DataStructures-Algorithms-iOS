@@ -19,6 +19,6 @@
  > | Ch# | Chapter Subject | Note |
  > |:---:| :--- | :--- |
  > |3|[Stacks](https://github.com/dh3183/DataStructures-Algorithms-iOS/tree/main/Stacks/Stacks.playground)|Stack operations, push and pop operations|
- > |4|Stack Challenges||
+ > |4|[Stack Challenges](https://github.com/dh3183/DataStructures-Algorithms-iOS/tree/main/Stack-Challenges/Stack-Challenges.playground)||
  > |5|Linked List|LinkedList, push, append, insert(after:), pop, removeLast, remove(after:)  operations, Performance analysis, Custom collection indexes, Optimizing COW, Sharing nodes|
  > |6|Linked List Challenges||
