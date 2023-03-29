@@ -8,7 +8,7 @@
 
 ### 🍞 Curriculum
 - 총 5개의 Section과 45개의 Chapter로 구성되어 있습니다.
-- playground 저장용으로 사용되며 정리는 Velog를 통해 기록합니다.
+- playground 저장용으로 사용되며 정리는 [Velog](https://velog.io/@elbin/Data-Structures-Complexity)를 통해 기록합니다.
 - **Section I: Introduction**
  > | Ch# | Chapter Subject | Note |
  > |:---:| :--- | :--- |
