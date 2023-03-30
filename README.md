@@ -12,13 +12,13 @@
 - **Section I: Introduction**
  > | Ch# | Chapter Subject | Note |
  > |:---:| :--- | :--- |
- > |1|[Complexity](https://github.com/dh3183/DataStructures-Algorithms-iOS/tree/main/Complexity/Complexity.playground)|Time complexity, Space complexity|
- > |2|[Swift Standard Library](https://github.com/dh3183/DataStructures-Algorithms-iOS/tree/main/Complexity/Standard-Library.playground)|Array, Array performance, Dictionary, Set, Deque|
+ > |1|[Complexity](https://github.com/dh3183/DataStructures-Algorithms-iOS/blob/main/Complexity/Complexity.playground/Contents.swift)|Time complexity, Space complexity|
+ > |2|[Swift Standard Library](https://github.com/dh3183/DataStructures-Algorithms-iOS/blob/main/Swift-Standard-Library/Swift-Standard-Library.playground/Contents.swift)|Array, Array performance, Dictionary, Set, Deque|
 
 - **Section II: Elementary Data Structures**
  > | Ch# | Chapter Subject | Note |
  > |:---:| :--- | :--- |
- > |3|[Stacks](https://github.com/dh3183/DataStructures-Algorithms-iOS/tree/main/Stacks/Stacks.playground)|Stack operations, push and pop operations|
+ > |3|[Stacks](https://github.com/dh3183/DataStructures-Algorithms-iOS/blob/main/Stacks/Stacks.playground/Contents.swift)|Stack operations, push and pop operations|
  > |4|[Stack Challenges](https://github.com/dh3183/DataStructures-Algorithms-iOS/tree/main/Stack-Challenges/Stack-Challenges.playground)||
- > |5|Linked List|LinkedList, push, append, insert(after:), pop, removeLast, remove(after:)  operations, Performance analysis, Custom collection indexes, Optimizing COW, Sharing nodes|
- > |6|Linked List Challenges||
+ > |5|[Linked List](https://github.com/dh3183/DataStructures-Algorithms-iOS/blob/main/Linked-List/Linked-List.playground/Contents.swift)|LinkedList, push, append, insert(after:), pop, removeLast, remove(after:)  operations, Performance analysis, Custom collection indexes, Optimizing COW, Sharing nodes|
+ > |6|[Linked List Challenges](https://github.com/dh3183/DataStructures-Algorithms-iOS/blob/main/Linked-List-Challenges/Linked-List-Challenges.playground/Contents.swift)||
